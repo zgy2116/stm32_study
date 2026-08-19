@@ -1,0 +1,49 @@
+# Build output
+Debug/
+Release/
+build/
+Build/
+out/
+Objects/
+Listings/
+
+# Compiled files
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.d
+*.axf
+*.srec
+
+# IDE temporary files
+.vscode/
+.idea/
+*.launch
+*.dep
+*.bak
+*.tmp
+*.swp
+*.suo
+*.user
+*.uvguix.*
+*.uvoptx
+
+# Generated files
+*.log
+*.su
+*.lst
+*.crf
+*.htm
+*.scvd
+
+# STM32CubeMX generated backup files
+*.ioc.bak
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
