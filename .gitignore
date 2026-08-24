@@ -22,6 +22,8 @@ Listings/
 # IDE temporary files
 .vscode/
 .idea/
+.settings/
+*.mxproject
 *.launch
 *.dep
 *.bak
